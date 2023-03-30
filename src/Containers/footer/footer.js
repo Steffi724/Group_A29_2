@@ -7,7 +7,7 @@ function footer() {
     return (
         <>
             <footer className="fadeInUp col-md-12">
-                <a href="https://github.com/mehulk05/Blogapp-using-MERN" className="button github"><svg xmlns="http://www.w3.org/2000/svg"
+                <a href="https://github.com/Steffi724/Group_A29_2/tree/master" className="button github"><svg xmlns="http://www.w3.org/2000/svg"
                     width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
                     strokeLinecap="round" strokeLinejoin="round">
                     <path
@@ -25,7 +25,7 @@ function footer() {
 
                 <SocialMediaHorizontal />
             </footer>
-            <h5 className="text-center copyright"> © Copyrights reserved by Mehul Kothari</h5>
+            <h5 className="text-center copyright"> © Copyrights reserved by Steffi</h5>
         </>
     )
 }
