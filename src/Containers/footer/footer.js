@@ -17,7 +17,7 @@ function footer() {
 
 
 
-                <a href="https://medium.com/@mehulkothari05/medium-blogs-on-your-react-app-a3898a729aad" className="button btn-light medium">
+                <a href="https://medium.com/@steffisoundar2003" className="button btn-light medium">
                     <span><img className="img-circle" width="20" alt=""
                         src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />Read about this Project
                 On MEDIUM</span></a>
